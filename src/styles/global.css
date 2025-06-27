@@ -1,12 +1,6 @@
 html {
   background-color: #f1f5f9;
-}
-
-.montserrat-<uniquifier> {
-  font-family: "Montserrat", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+  font-family: sans-serif;
 }
 
 body {
